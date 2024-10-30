@@ -1,0 +1,160 @@
+.heading {
+  text-align: center;
+  font-family: Georgia;
+  color: darkorange;
+}
+.font-0 {
+  font-family: Tahoma;
+}
+
+.font-1 {
+  font-family: Arial;
+}
+
+.font-2 {
+  font-family: Verdana;
+} 
+
+.font-3 {
+  font-family: Arial;
+  text-align: center;
+}
+
+.font-4 {
+  font-family: Arial;
+  text-align: center;
+}
+
+.font-5 {
+  font-family: Arial;
+}
+
+.font-6 {
+  font-family: Arial;
+}
+
+.p-1 {
+  color: red;
+  font-style: italic;
+  font-size: 23px;
+  margin-top: 0;
+}
+
+.h2-1 {
+  font-size: 30px;
+  margin-bottom: 9px;
+}
+
+.h3-2 {
+  margin-bottom: 3px;
+}
+
+.p-2 {
+  color: #646464;
+  font-size: 17px;
+  margin-top: 0;
+}
+
+.p-2G {
+  width: 280px;
+  line-height: 22px;
+}
+
+.button-2 {
+  background-color: green;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 15px;
+  border-radius: 7px;
+  cursor: pointer;
+}
+
+.span-3 {
+  color: aqua;
+  cursor: pointer;
+}
+
+.span-3:hover {
+  text-decoration: underline;
+}
+
+.h5-4 {
+  color: orange;
+  font-size: 15px;
+  margin-bottom: 0px;
+}
+
+.h2-4 {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+.h1-4 {
+  margin-top: 0px;
+  font-size: 40px;
+  margin-bottom: 0px;
+}
+
+.p-4 {
+  font-size: 17px;
+  margin-top: 8px;
+}
+
+.button-4 {
+  background-color: rgb(41, 126, 224);
+  color: white;
+  border: none;
+  padding: 10px 17px;
+  border-radius: 17px;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+strong {
+  font-size: 30px;
+}
+
+.span-5 {
+  color: #4b4a4a;
+}
+
+.p-5 {
+  margin-bottom: 6px;
+}
+
+.p-5G {
+  color: green;
+  margin-top: 0;
+  margin-bottom: 6px;
+}
+
+.p-5S {
+  color: red;
+  font-size: 17px;
+  margin-top: 0;
+}
+
+.span-5S {
+  color: #4b4a4a;
+}
+
+.span-6 {
+  color: #4b4a4a;
+}
+
+.p-6A {
+  margin-bottom: 6px;
+}
+
+.p-6B {
+  width: 550px;
+  line-height: 25px;
+  font-size: 16px;
+  margin-top: 0px;
+}
+
+.span-6G {
+  color: rgb(41, 126, 224);
+}
